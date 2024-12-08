@@ -20,7 +20,7 @@ function Q1()
 
 }
 
-Q1();
+// Q1();
 
 
 
@@ -48,7 +48,7 @@ function Q2()
     }
 }
 
-Q2();
+// Q2();
 
 
 
@@ -75,7 +75,7 @@ function Q3()
 
 }
 
-Q3();
+// Q3();
 
 
 
@@ -104,7 +104,7 @@ function Q4()
 
 }
 
-Q4();
+// Q4();
 
 
 
@@ -124,7 +124,7 @@ function Q5()
 
 }
 
-Q5();
+// Q5();
 
 
 
@@ -149,7 +149,7 @@ function Q6()
     del==true? alert("Deleted"): alert("Cancelled");
 }
 
-Q6();
+// Q6();
 
 
 
@@ -175,7 +175,7 @@ else{
 
 }
 
-Q7();
+// Q7();
 
 
 
@@ -202,7 +202,7 @@ function Q8()
 
 }
 
-Q8();
+// Q8();
 
 
 
@@ -218,7 +218,7 @@ function Q9()
     while(num2<10)
 }
 
-Q9();
+// Q9();
 
 
 // Q-10.
@@ -245,7 +245,7 @@ function Q10()
         default: alert("Invalid Input");
         break;
     }
-    
+
 }
 
 Q10();
