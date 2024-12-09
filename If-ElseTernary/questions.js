@@ -211,14 +211,15 @@ function Q8()
 
 function Q9()
 {
-    let num2=0;
+    let num2;
     do{
         num2=prompt("Enter no greater then 10:");
     }
     while(num2<10)
+        alert("No. Accepted");
 }
 
-// Q9();
+Q9();
 
 
 // Q-10.
@@ -248,4 +249,4 @@ function Q10()
 
 }
 
-Q10();
+// Q10();
