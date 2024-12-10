@@ -219,7 +219,7 @@ function Q9()
         alert("No. Accepted");
 }
 
-Q9();
+// Q9();
 
 
 // Q-10.
