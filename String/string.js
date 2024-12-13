@@ -81,11 +81,23 @@ function string(){
     let answer1=text2.split(" ");
     console.log(answer1);
 
-    //14. Template Laterals "  ``  ".
-
-    
-    
-    
+       
 }
 
 string();
+
+//14. Template Laterals "  ``  ".
+
+// 14.1;
+    function button()
+    {
+        alert(`This is "Cybrom" and 'sid' is faculty here.`);
+    }
+
+
+    function sum(){
+        let a1= number(prompt("Enter the number 1:"));
+        let a2= number(prompt("Enter the number 2:"));
+
+        alert(`the sum of ${a1} and ${a2} is ${(a1+a2)}`);
+    }
