@@ -90,7 +90,7 @@ function arr(){
 
 // for-Of()
 for(let i of arr1){
-    console.log(i)
+    console.log(i);
 }
     
 
