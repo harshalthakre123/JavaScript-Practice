@@ -32,9 +32,16 @@ function string(){
 
         
     // 4. substring()-
+
+    let substr= text2.substring(2, 15)
+    // console.log(substr);
  
  
     // 5. replace()-
+
+        let stringg="the Java mern Java and javascript is fun.";
+        let answerr=stringg.replace(/Java/ig, "hello");
+        // console.log(answerr);
 
 
 
@@ -58,7 +65,7 @@ function string(){
 
     // 8.charAt()-
 
-    let word="Harshal"
+    let word="Harshal";
     // document.write(text2.charAt(10));
     // document.write(word.charAt(4));
 
@@ -66,36 +73,39 @@ function string(){
 
     // document.write(word.indexOf("a"));
 
-    // 10. charCodesAt()
-    // document.write(word.charCodesAt(2));
+    // 10. charCodeAt() //Ascii value.
+    document.write(word.charCodeAt(1));
 
-    // 11. replace()
-    // 12 replaceAll()
-    // 13. split()
+    // 11 replaceAll()
+
+
+
+
+    // 12. split()
     
     // it takes all letters in the array as a element.
     let answer=text2.split(""); //taking every thing as separater.
-    console.log(answer);
+    // console.log(answer);
 
     // it takes all single word in the array as a element. this is taking " "(space) as a separater
     let answer1=text2.split(" ");
-    console.log(answer1);
+    // console.log(answer1);
 
        
 }
 
-string();
+string()
 
-//14. Template Laterals "  ``  ".
+//13. Template Laterals "  ``  ".
 
-// 14.1;
+// 13.1;
     function button()
     {
         alert(`This is "Cybrom" and 'sid' is faculty here.`);
     }
 
-
-    function sum(){
+//  13.2;
+    function sum1(){
         let a1= number(prompt("Enter the number 1:"));
         let a2= number(prompt("Enter the number 2:"));
 
