@@ -27,7 +27,26 @@ student.email="harshalthakre0403@gmail.com"; //new added data.
 student.age=25;   // update b using key.
 // console.log(student.age);
 
-delete student.city; //delete. 
+// delete student.city; //delete. 
 // console.log(student);
 
-student.welcome(); //calling function.
+// student.welcome(); //calling function.
+
+
+// Destructuring of object=============================================================
+// definition: it is a way to unpack values from objects into variables. 
+// use?
+// Makes the code cleaner and easier to read.
+// allows quick access to object properties.
+
+const {name, age, city} = student; // Destructuring 
+console.log(city);
+
+
+
+// Spread Operator(...)=========================================================
+// the spread operator (...) is 
+// uses
+// 
+// let newobj={...student1,...student2}
+console.log(newobj);
