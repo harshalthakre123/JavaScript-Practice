@@ -28,13 +28,28 @@
 
     <!-- Practise========================================================== -->
 
-    <h1></h1>
+    <h1>on mouse click</h1>
     <div id="main"><img src="./1.webp" alt="" height="50%" width="50%"></div>
     <img onclick="a('1.webp')" src="./1.webp" alt="" height="15%" width="15%">
     <img onclick="a('2..webp')" src="./2..webp" alt="" height="15%" width="15%">
     <img onclick="a('3.webp')" src="./3.webp" alt="" height="15%" width="15%">
     <img onclick="a('4..webp')" src="./4..webp" alt=""height="15%" width="15%">
 
+
+    <!-- onmouseenter======================== -->
+    <div id="color1" style="height: 500px; width: 500px; border: 2px solid black; background-color: darkslateblue;"></div>
+    <button onmouseenter="red1()" onmouseleave="blue1()">red</button>
+        <button onmouseenter="green1()" onmouseleave="blue1()">green</button>
+        <button onmouseenter="yellow1()" onmouseleave="blue1()">yellow</button>
+
+
+    <!-- Practise========================================================== -->
+
+    <h1>on mouse enter</h1>
+    <div id="main1"><img src="./1.webp" alt="" height="50%" width="50%"></div>
+    <img onmouseenter="a2('2..webp')" onmouseleave="a2('1.webp')" src="./2..webp" alt="" height="15%" width="15%">
+    <img onmouseenter="a2('3.webp')" onmouseleave="a2('1.webp')" src="./3.webp" alt="" height="15%" width="15%">
+    <img onmouseenter="a2('4..webp')" onmouseleave="a2('1.webp')" src="./4..webp" alt=""height="15%" width="15%">
 
     <script src="./dom.js"></script>
 </body>

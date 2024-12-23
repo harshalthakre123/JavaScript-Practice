@@ -36,3 +36,30 @@ let a=(imageSrc)=>{
     let a1=document.querySelector("#main");
     a1.innerHTML= `<img src="${imageSrc}" alt="" height="50%" width="50%">`;
 }
+
+
+// onmouseenter and onmouseleave===========================================
+let red1=()=>{
+    let box=document.querySelector("#color1")
+    box.style.backgroundColor="red";
+}
+let blue1=()=>{
+    let box=document.querySelector("#color1")
+    box.style.backgroundColor="blue";
+}
+let green1=()=>{
+    let box=document.querySelector("#color1")
+    box.style.backgroundColor="green";
+}
+let yellow1=()=>{
+    let box=document.querySelector("#color1")
+    box.style.backgroundColor="yellow";
+}
+
+
+
+// onmouse enter and leave======================================
+let a2=(imageSrc)=>{
+    let a3=document.querySelector("#main");
+    a3.innerHTML= `<img src="${imageSrc}" alt="" height="50%" width="50%">`;
+}
