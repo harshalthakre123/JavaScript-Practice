@@ -1,0 +1,27 @@
+form{
+    border: 3px solid black;
+    width:20%;
+    height: auto;
+}
+
+#name{
+    border: 2px solid black;
+}
+
+#numm{
+    border: 2px solid black;
+}
+
+#email{
+    border: 2px solid black;
+}
+
+#pass{
+    border: 2px solid black;
+}
+
+#cpass{
+    border: 2px solid black;
+}
+
+

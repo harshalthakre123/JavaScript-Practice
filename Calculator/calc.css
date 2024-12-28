@@ -1,0 +1,32 @@
+table{
+    background-color:black ;
+    color: ghostwhite;
+    border-radius: 6%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#display{
+    background-color: rgb(243, 242, 242);
+    color: black;
+    border-radius: 10%;
+}
+
+#operator{
+    background-color: orangered;
+    color: rgb(255, 255, 255);
+    border-radius: 40%;
+}
+
+#ac{
+    background-color: red;
+    color: white;
+    border-radius: 40%;
+    
+}
+
+#num{
+    background-color: gray ;
+    color: black;
+    border-radius: 40%;
+}
