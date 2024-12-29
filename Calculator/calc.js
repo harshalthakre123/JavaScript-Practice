@@ -24,3 +24,17 @@ let allclear=()=>{
     store.toString(); //"0" string
 
 }
+
+let del=()=>{
+    let disp=document.querySelector("#display");
+
+    store=store.slice(0, -1);
+    disp.innerHTML=store;
+}
+
+let sq=()=>{
+    let disp=document.querySelector("#display");
+    store=store*store;
+    disp.innerHTML=store;
+    
+}
