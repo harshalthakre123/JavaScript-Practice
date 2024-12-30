@@ -30,3 +30,9 @@ table{
     color: black;
     border-radius: 40%;
 }
+#num:hover{
+    background-color: white;
+    color: black;
+    transform: scale(1.2);
+    transition: 2sec;
+}
