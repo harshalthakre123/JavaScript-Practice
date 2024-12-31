@@ -104,7 +104,7 @@ string()
         alert(`This is "Cybrom" and 'sid' is faculty here.`);
     }
 
-//  13.2;
+//  13.2; // template laterals.
     function sum1(){
         let a1= number(prompt("Enter the number 1:"));
         let a2= number(prompt("Enter the number 2:"));
