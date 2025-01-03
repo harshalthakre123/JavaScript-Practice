@@ -38,3 +38,8 @@ let sq=()=>{
     disp.innerHTML=store;
     
 }
+
+let age=()=>{
+    let agee=document.querySelector("#display");
+
+}
