@@ -1,0 +1,50 @@
+{
+
+    "Renter-Details":[
+
+        {
+            "Renter Name":"Harshal Thakre",
+            "Age":"20",
+            "Aadhar No.":"322107852497",
+            "DL No.":"mp2020223151",
+            "Mob no.":"7909926497",
+            "E-mail":"harshalthakre0403@gmail.com",
+            "Address":"Mig-270, P-3, SKP-Colony, Bhopal",
+            "Rented Car Name":"Scorpio S11",
+            "Car Reg no.":"MP04zn1111"
+        },
+        {
+            "Renter Name":"Nikhil Patel",
+            "Age":"20",
+            "Aadhar No.":"123123123",
+            "DL No.":"Nhi hai",
+            "Mob no.":"790900000",
+            "E-mail":"nikhilpatel@gmail.com",
+            "Address":"char-imli, shivaji nagar, Bhopal",
+            "Rented Car Name":"bmw x5",
+            "Car Reg no.":"mp04ca0001"
+        },
+        {
+            "Renter Name":"Harsh Thakre",
+            "Age":"20",
+            "Aadhar No.":"2451525545",
+            "DL No.":"mhg5562121",
+            "Mob no.":"8871523269",
+            "E-mail":"harsh14thakre@gmail.com",
+            "Address":"SKP colony, Bhopal",
+            "Rented Car Name":"XUV-7OO",
+            "Car Reg no.":"mp04ca1560"
+        },
+        {
+            "Renter Name":"Mahesh Babu",
+            "Age":"23",
+            "Aadhar No.":"3212155125",
+            "DL No.":"2121215fd2121",
+            "Mob no.":"7909095105",
+            "E-mail":"maheshj@gmail.com",
+            "Address":"bagsevaniya thana",
+            "Rented Car Name":"maruti-800",
+            "Car Reg no.":"mp04cg0420"
+        }
+    ]
+}
