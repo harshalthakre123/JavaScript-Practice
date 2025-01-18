@@ -3,48 +3,48 @@
     "Renter-Details":[
 
         {
-            "Renter Name":"Harshal Thakre",
+            "Rentername":"Harshal Thakre",
             "Age":"20",
-            "Aadhar No.":"322107852497",
-            "DL No.":"mp2020223151",
-            "Mob no.":"7909926497",
-            "E-mail":"harshalthakre0403@gmail.com",
+            "Aadhar":"322107852497",
+            "DL":"mp2020223151",
+            "Mob":"7909926497",
+            "Email":"harshalthakre0403@gmail.com",
             "Address":"Mig-270, P-3, SKP-Colony, Bhopal",
-            "Rented Car Name":"Scorpio S11",
-            "Car Reg no.":"MP04zn1111"
+            "CarName":"Scorpio S11",
+            "CarReg":"MP04zn1111"
         },
         {
-            "Renter Name":"Nikhil Patel",
+            "Rentername":"Nikhil Patel",
             "Age":"20",
-            "Aadhar No.":"123123123",
-            "DL No.":"Nhi hai",
-            "Mob no.":"790900000",
-            "E-mail":"nikhilpatel@gmail.com",
-            "Address":"char-imli, shivaji nagar, Bhopal",
-            "Rented Car Name":"bmw x5",
-            "Car Reg no.":"mp04ca0001"
+            "Aadhar":"123123123",
+            "DL":"Nhi hai",
+            "Mob":"790900000",
+            "Email":"nikhilpatel@gmail.com",
+            "Address":"1250, char-imli, shivaji nagar, Bhopal",
+            "CarName":"bmw x5",
+            "CarReg":"mp04ca0001"
         },
         {
             "Renter Name":"Harsh Thakre",
             "Age":"20",
-            "Aadhar No.":"2451525545",
-            "DL No.":"mhg5562121",
-            "Mob no.":"8871523269",
-            "E-mail":"harsh14thakre@gmail.com",
+            "Aadhar":"2451525545",
+            "DL":"mhg5562121",
+            "Mob":"8871523269",
+            "Email":"harsh14thakre@gmail.com",
             "Address":"SKP colony, Bhopal",
-            "Rented Car Name":"XUV-7OO",
-            "Car Reg no.":"mp04ca1560"
+            "CarName":"XUV-7OO",
+            "CarReg":"mp04ca1560"
         },
         {
             "Renter Name":"Mahesh Babu",
             "Age":"23",
-            "Aadhar No.":"3212155125",
-            "DL No.":"2121215fd2121",
-            "Mob no.":"7909095105",
-            "E-mail":"maheshj@gmail.com",
+            "Aadhar":"3212155125",
+            "DL":"2121215fd2121",
+            "Mob":"7909095105",
+            "Email":"maheshj@gmail.com",
             "Address":"bagsevaniya thana",
-            "Rented Car Name":"maruti-800",
-            "Car Reg no.":"mp04cg0420"
+            "CarName":"maruti-800",
+            "CarReg":"mp04cg0420"
         }
     ]
 }
