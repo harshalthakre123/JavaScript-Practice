@@ -1,50 +1,38 @@
 {
+  "Renter-Detail": [
+    {
+        "Rentername": "HARSHAL",
+        "CarName": "Scorpio S11 classic",
+        "Aadhar": "3221321",
+        "CarReg": "mp04zn3218",
+        "Address": "skp bhopal",
+        "Mob": "7909926497"
+    },
 
-    "Renter-Details":[
+    {
+        "Rentername": "Vikas",
+        "CarName": "scorpio s11 classic",
+        "Aadhar": "3215",
+        "CarReg": "15151",
+        "Address": "bhopal skp",
+        "Mob": "88959595"
+    },
+    {
+        "Rentername": "sourabh",
+        "CarName": "Scorpio s11 classic",
+        "Aadhar": "465456",
+        "CarReg": "15151",
+        "Address": "ghar me",
+        "Mob": "45646546"
+    },
 
-        {
-            "Rentername":"Harshal Thakre",
-            "Age":"20",
-            "Aadhar":"322107852497",
-            "DL":"mp2020223151",
-            "Mob":"7909926497",
-            "Email":"harshalthakre0403@gmail.com",
-            "Address":"Mig-270, P-3, SKP-Colony, Bhopal",
-            "CarName":"Scorpio S11",
-            "CarReg":"MP04zn1111"
-        },
-        {
-            "Rentername":"Nikhil Patel",
-            "Age":"20",
-            "Aadhar":"123123123",
-            "DL":"Nhi hai",
-            "Mob":"790900000",
-            "Email":"nikhilpatel@gmail.com",
-            "Address":"1250, char-imli, shivaji nagar, Bhopal",
-            "CarName":"bmw x5",
-            "CarReg":"mp04ca0001"
-        },
-        {
-            "Renter Name":"Harsh Thakre",
-            "Age":"20",
-            "Aadhar":"2451525545",
-            "DL":"mhg5562121",
-            "Mob":"8871523269",
-            "Email":"harsh14thakre@gmail.com",
-            "Address":"SKP colony, Bhopal",
-            "CarName":"XUV-7OO",
-            "CarReg":"mp04ca1560"
-        },
-        {
-            "Renter Name":"Mahesh Babu",
-            "Age":"23",
-            "Aadhar":"3212155125",
-            "DL":"2121215fd2121",
-            "Mob":"7909095105",
-            "Email":"maheshj@gmail.com",
-            "Address":"bagsevaniya thana",
-            "CarName":"maruti-800",
-            "CarReg":"mp04cg0420"
-        }
-    ]
+    {
+        "Rentername": "harsh",
+        "CarName": "verna",
+        "Aadhar": "545654",
+        "CarReg": "bgd54",
+        "Address": "bpl ",
+        "Mob": "45454654+"
+    }
+  ]
 }
