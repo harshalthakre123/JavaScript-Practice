@@ -86,16 +86,16 @@ let formupdate= async (id)=>{
             <option value="vw v">virtus gt</option>
             <option value="endevour">endevour</option>
         </select ><br><br>
-        aadhar number: <input type="number" id="upaadnum" value="${data.Rentername}"><br><br>
+        aadhar number: <input type="number" id="upaadnum" value="${data.Aadhar}"><br><br>
         car registered num: <input type="text" id="upcarnum" value="${data.CarReg}" ><br><br>
-        address: <input type="text" id="upaddress" value="${data.Rentername}"><br><br>
-        mobile: <input type="number" id="upmob" value="${data.Rentername}" ><br><br>
+        address: <input type="text" id="upaddress" value="${data.Address}"><br><br>
+        mobile: <input type="number" id="upmob" value="${data.Mob}" ><br><br>
         
         <input type="submit" value="update" onclick="return finalupdate(${data.id})">`
 
     document.querySelector('#formdata').innerHTML=datafill
-
-    let finalupdate=(id)=>{
+}
+    let finalupdate = (id)=>{
         let name=document.querySelector("#upname").value
         let carrent=document.querySelector("#upcar").value
         let aadnum=document.querySelector("#upaadnum").value
@@ -107,25 +107,25 @@ let formupdate= async (id)=>{
 
         fetch(url,
             {   
-                method: "POST",
+                method: "PUT",
                 headers:{
                     "Content-Type": "application/json"
                 },
                 body:JSON.stringify(
                     {
-                        Rentername: upname,
-                        CarName: upcar,
-                        Aadhar: upaadhar,
-                        CarReg: upcarnum,
-                        Address: upaddress,
-                        Mob: upmob
+                        Rentername: name,
+                        CarName: carrent,
+                        Aadhar: aadnum,
+                        CarReg: carnum,
+                        Address: address,
+                        Mob: mob
                     }
                 )
-        })
+        });
         location.href="index.html"
-        return false
+       
     
     
-    }
-
+    
+    return false
 }
