@@ -123,9 +123,5 @@ let formupdate= async (id)=>{
                 )
         });
         location.href="index.html"
-       
-    
-    
-    
-    return false
+        return false
 }

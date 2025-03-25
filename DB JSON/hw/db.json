@@ -1,40 +1,13 @@
 {
   "Renter-Detail": [
     {
-      "Rentername": "HARSHAL",
-      "CarName": "Scorpio S11 classic",
-      "Aadhar": "3221321",
-      "CarReg": "mp04zn3218",
-      "Address": "skp bhopal",
-      "Mob": "7909926497",
-      "id": "2bdc"
-    },
-    {
-      "Rentername": "Vikas",
-      "CarName": "scorpio s11 classic",
-      "Aadhar": "3215",
-      "CarReg": "15151",
-      "Address": "bhopal skp",
-      "Mob": "88959595",
-      "id": "d867"
-    },
-    {
-      "Rentername": "sourabh",
-      "CarName": "Scorpio s11 classic",
-      "Aadhar": "465456",
-      "CarReg": "15151",
-      "Address": "ghar me",
-      "Mob": "45646546",
-      "id": "cfe1"
-    },
-    {
-      "id": "6b26",
-      "Rentername": "Nikita Thakre",
+      "id": "1d6a",
+      "Rentername": "Harshal Thakre",
       "CarName": "s11",
-      "Aadhar": "123456",
+      "Aadhar": "322173052497",
       "CarReg": "mp04zn3218",
-      "Address": "bhopal",
-      "Mob": "654321"
+      "Address": "skp bhopal 462047",
+      "Mob": "7909926497"
     }
   ]
 }
